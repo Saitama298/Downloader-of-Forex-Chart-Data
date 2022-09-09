@@ -3,6 +3,7 @@
 To run the script you need the following installed in your system:
 
 Python 3.10.4
+
 requests 2.28.1
 
 You can get the python installer in the python official website: 
